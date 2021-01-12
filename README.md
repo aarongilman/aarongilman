@@ -12,9 +12,7 @@
 </h1>
 
 <p align="center">
-Thanks for checking out my profile! I serve as the Chief Investment Officer and President of the wealth management division for a Broker Dealer and RIA with a national footprint. I specialize in the practical application of fintech and behavioral finance to enable smarter financial decision-making. I am a self-taught programmer and use Python to help scale our business and provide consistency in our investment processes. I spend a lot of time building out Django and Python applications and use Jupyter Notebooks to share ideas with my team. I can also write Ruby, R and JavaScript programming languages but prefer Python for quantitative finance.
-
-I’m in constant pursuit of understanding - rather than simply doing – and I examine what most overlook. My success is driven by my insatiable curiosity, affinity for details, and more than a bit of skepticism.
+Thanks for checking out my profile! I serve as the Chief Investment Officer and President of the wealth management division for a Broker Dealer and RIA with a national footprint. I specialize in the practical application of fintech and behavioral finance to enable smarter financial decision-making. I am a self-taught programmer and use Python to help scale our business and provide consistency in our investment processes. I spend a lot of time building out Django and Python applications and use Jupyter Notebooks to share ideas with my team. I can also write Ruby, R and JavaScript programming languages but prefer Python for quantitative finance. I’m in constant pursuit of understanding - rather than simply doing – and I examine what most overlook. My success is driven by my insatiable curiosity, affinity for details, and more than a bit of skepticism.
 </p>
 
 <br>
